@@ -1,0 +1,24 @@
+.heading{
+    font-size: 28px;
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+    border-radius: 20px;
+    border-color:crimson;
+    border-width: 4px;
+    letter-spacing: 10px;
+    background-color: #FFA500;
+}
+body{
+    text-align:center;
+    background-color:#ADD8E6 ;
+}
+span{
+    font-size: 32px;
+}
+#camera,#result{
+    border: 3px white dashed;
+    width: 355;
+    height:295;
+    background-color: black;
+    border-radius: 23px;
+}
